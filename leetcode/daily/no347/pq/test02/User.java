@@ -2,7 +2,7 @@ package leetcode.daily.no347.pq.test02;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-07 20:06
  **/
 public class User {

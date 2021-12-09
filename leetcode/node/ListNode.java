@@ -3,7 +3,7 @@ package leetcode.node;
 /**
  * @ClassName ListNode
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/13 8:43
  */
 public class ListNode {

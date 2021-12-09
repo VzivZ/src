@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-15 11:14
  **/
 public class CQueue {

@@ -3,7 +3,7 @@ package leetcode.arraydemo;
 /**
  * @ClassName MatchDemo
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/20 15:26
  */
 public class MatchDemo {

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 
 /**
  * @description: 输入一个链表的头节点，从尾到头反过来返回每个节点的值（用数组返回）。
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-15 10:34
  **/
 public class NodeDemo003 {

@@ -3,7 +3,7 @@ package leetcode.node;
 /**
  * @ClassName NodeDelete
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/17 13:06
  */
 public class NodeDelete {

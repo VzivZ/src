@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName CommonPrefix
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/19 14:39
  */
 public class CommonPrefix {

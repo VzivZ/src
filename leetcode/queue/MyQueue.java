@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @ClassName MyQueue
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/1/29 10:53
  */
 public class MyQueue {

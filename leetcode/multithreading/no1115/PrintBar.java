@@ -4,7 +4,7 @@ import leetcode.multithreading.no1115.FooBar;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-08-10 10:33
  **/
 public class PrintBar implements Runnable {

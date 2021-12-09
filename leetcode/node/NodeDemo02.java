@@ -3,7 +3,7 @@ package leetcode.node;
 /**
  * @ClassName NodeDemo02
  * @Description 将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/13 9:21
  */
 public class NodeDemo02 {

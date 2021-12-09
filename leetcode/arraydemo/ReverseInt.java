@@ -3,7 +3,7 @@ package leetcode.arraydemo;
 /**
  * @ClassName ReverseInt
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/20 10:09
  */
 public class ReverseInt {

@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName Median
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/9 8:48
  */
 public class Median {

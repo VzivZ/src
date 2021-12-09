@@ -2,7 +2,7 @@ package leetcode.offer.offer04;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-08-10 17:35
  **/
 public class Solution {

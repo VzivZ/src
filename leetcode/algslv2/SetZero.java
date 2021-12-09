@@ -38,7 +38,7 @@ package leetcode.algslv2;
  * 一个直接的解决方案是使用  O(mn) 的额外空间，但这并不是一个好的解决方案。
  * 一个简单的改进方案是使用 O(m + n) 的额外空间，但这仍然不是最好的解决方案。
  * 你能想出一个常数空间的解决方案吗？
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/23 15:07
  */
 public class SetZero {

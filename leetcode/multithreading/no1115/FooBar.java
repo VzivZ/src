@@ -4,7 +4,7 @@ import java.util.concurrent.Semaphore;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-08-10 10:20
  **/
 public class FooBar {

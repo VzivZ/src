@@ -4,7 +4,7 @@ import java.util.concurrent.Executors;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-05-20 11:28
  **/
 public class ThreadDemo {

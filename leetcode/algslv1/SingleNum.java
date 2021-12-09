@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * @ClassName SingleNum
  * @Description 只出现一次的数字
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/13 16:28
  */
 public class SingleNum {

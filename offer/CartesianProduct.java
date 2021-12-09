@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @description: µÑ¿¨¶ù»ý
- * @author: HeZhe
+ * @description: ï¿½Ñ¿ï¿½ï¿½ï¿½ï¿½ï¿½
+ * @author: VzivZ
  * @date: 2020-04-20 17:45
  **/
 public class CartesianProduct {
@@ -19,12 +19,12 @@ public class CartesianProduct {
     }
 
     /**
-     * µÝ¹é»ØËÝ·¨Çó½â
+     * ï¿½Ý¹ï¿½ï¿½ï¿½Ý·ï¿½ï¿½ï¿½ï¿½
      *
-     * @param dimValue Ô­Ê¼Êý¾Ý¼¯ºÏ
-     * @param index    µ±Ç°Ö´ÐÐµÄ¼¯ºÏË÷Òý
-     * @param result   ½á¹û¼¯ºÏ
-     * @param curList  µ±Ç°µÄµ¥¸ö½á¹û¼¯
+     * @param dimValue Ô­Ê¼ï¿½ï¿½ï¿½Ý¼ï¿½ï¿½ï¿½
+     * @param index    ï¿½ï¿½Ç°Ö´ï¿½ÐµÄ¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+     * @param result   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+     * @param curList  ï¿½ï¿½Ç°ï¿½Äµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
      */
     private void backtrace(List<List<String>> dimValue, int index,
                            List<List<String>> result, List<String> curList) {
@@ -52,10 +52,10 @@ public class CartesianProduct {
         dimValue.add(list1);
         dimValue.add(list2);
 
-        // µÝ¹éÊµÏÖµÑ¿¨¶û»ý
+        // ï¿½Ý¹ï¿½Êµï¿½ÖµÑ¿ï¿½ï¿½ï¿½ï¿½ï¿½
         CartesianProduct s = new CartesianProduct();
         List<List<String>> res = s.descartes(dimValue);
-        System.out.println("µÝ¹éÊµÏÖµÑ¿¨¶û³Ë»ý: ¹² " + res.size() + " ¸ö½á¹û");
+        System.out.println("ï¿½Ý¹ï¿½Êµï¿½ÖµÑ¿ï¿½ï¿½ï¿½ï¿½Ë»ï¿½: ï¿½ï¿½ " + res.size() + " ï¿½ï¿½ï¿½ï¿½ï¿½");
         for (List<String> list : res) {
             for (String string : list) {
                 System.out.print(string + " ");

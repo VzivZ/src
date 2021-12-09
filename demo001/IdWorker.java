@@ -2,7 +2,7 @@ package demo001;
 
 /**
  * @description: 自动生成Id
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-10-21 16:27
  **/
 public class IdWorker {

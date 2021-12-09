@@ -2,19 +2,19 @@ package pattern.proxy;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-04-20 18:15
  **/
 public class Demo {
     public static void main(String[] args) {
         HelloDao helloDao = new HelloDapImpl() ;
-        // 实例化InvocationHandler
+        // 实锟斤拷锟斤拷InvocationHandler
         HelloHandler invocationHandler = new HelloHandler(helloDao);
 
-        // 根据目标对象生成代理对象
+        // 锟斤拷锟斤拷目锟斤拷锟斤拷锟斤拷锟斤拷纱锟斤拷锟斤拷锟斤拷
         HelloDao proxy = (HelloDao) invocationHandler.getProxy();
 
-        // 调用代理对象的方法
+        // 锟斤拷锟矫达拷锟斤拷锟斤拷锟侥凤拷锟斤拷
         proxy.eat();
     }
 }

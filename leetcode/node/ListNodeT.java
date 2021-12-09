@@ -2,7 +2,7 @@ package leetcode.node;
 
 /**
  * @Description:
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2021/3/4 16:43
  */
 public class ListNodeT<T> {

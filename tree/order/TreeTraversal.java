@@ -8,7 +8,7 @@ import java.util.Stack;
 
 /**
  * @description: 二叉树遍历  https://www.jianshu.com/p/456af5480cee
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-14 14:34
  **/
 public class TreeTraversal {

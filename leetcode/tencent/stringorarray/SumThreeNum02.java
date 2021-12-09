@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @ClassName SumThreeNum02
  * @Description 最接近的三数之和
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/29 10:52
  */
 public class SumThreeNum02 {

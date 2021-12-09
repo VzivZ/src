@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * @ClassName Demo04
  * @Description 快乐数
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/11 16:25
  */
 public class Demo04 {

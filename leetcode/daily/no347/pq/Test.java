@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 
 /**
  * @description: PriorityQueue 基本使用
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-07 15:17
  **/
 public class Test {

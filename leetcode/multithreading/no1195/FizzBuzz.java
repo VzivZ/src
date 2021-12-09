@@ -4,7 +4,7 @@ import java.util.function.IntConsumer;
 
 /**
  * @description: 1195. 交替打印字符串
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-08-10 10:50
  **/
 class FizzBuzz {

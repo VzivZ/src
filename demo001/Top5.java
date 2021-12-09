@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @description: 找出List中最大的5个
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-07-02 15:37
  **/
 public class Top5 {

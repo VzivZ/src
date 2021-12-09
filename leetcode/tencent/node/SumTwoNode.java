@@ -5,7 +5,7 @@ import leetcode.node.ListNode;
 /**
  * @ClassName SumTwoNode
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/2 8:20
  */
 public class SumTwoNode {

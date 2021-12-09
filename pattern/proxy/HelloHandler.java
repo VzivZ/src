@@ -6,11 +6,11 @@ import java.lang.reflect.Proxy;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-04-20 18:14
  **/
 public class HelloHandler implements InvocationHandler {
-    // Ä¿±ê¶ÔÏó
+    // Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½
 
     private Object target;
 
@@ -21,16 +21,16 @@ public class HelloHandler implements InvocationHandler {
 
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-        System.out.println("ÏÈÏ´ÊÖ\n------------------------------\n");
+        System.out.println("ï¿½ï¿½Ï´ï¿½ï¿½\n------------------------------\n");
         Object result = method.invoke(target, args);
-        System.out.println("\n------------------------------\n³ÔÍêÁË");
+        System.out.println("\n------------------------------\nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
         return result;
     }
 
 
     /**
-     * »ñÈ¡Ä¿±ê¶ÔÏóµÄ´úÀí¶ÔÏó
-     * @return ´úÀí¶ÔÏó
+     * ï¿½ï¿½È¡Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½Ä´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+     * @return ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
      */
     Object getProxy() {
         return Proxy.newProxyInstance(Thread.currentThread().getContextClassLoader(),

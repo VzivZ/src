@@ -2,7 +2,7 @@ package leetcode.daily.no130;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-08-11 14:49
  **/
 public class Test {

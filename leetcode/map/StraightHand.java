@@ -19,7 +19,7 @@ import java.util.Arrays;
  * 1 <= hand.length <= 10000
  * 0 <= hand[i] <= 10^9
  * 1 <= W <= hand.length
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/2/20 14:19
  */
 public class StraightHand {

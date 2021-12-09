@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName String2Int
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/12 14:02
  */
 public class String2Int {

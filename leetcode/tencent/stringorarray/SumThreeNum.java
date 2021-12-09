@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @ClassName SumThreeNum
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/19 15:47
  */
 public class SumThreeNum {

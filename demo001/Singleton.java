@@ -2,7 +2,7 @@ package demo001;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-01-03 09:52
  **/
 public class Singleton {

@@ -13,7 +13,7 @@ package leetcode.algslv1;
  * 说明:
  * 当 needle 是空字符串时，我们应当返回什么值呢？这是一个在面试中很好的问题。
  * 对于本题而言，当 needle 是空字符串时我们应当返回 0 。这与C语言的 strstr() 以及 Java的 indexOf() 定义相符。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/16 9:13
  */
 public class StrIndex {

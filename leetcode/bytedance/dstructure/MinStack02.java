@@ -3,7 +3,7 @@ package leetcode.bytedance.dstructure;
 /**
  * @ClassName MinStack02
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/1/29 10:00
  */
 public class MinStack02 {

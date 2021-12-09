@@ -12,7 +12,7 @@ package leetcode.algslv1;
  * 解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
  * 进阶:
  * 如果你已经实现复杂度为 O(n) 的解法，尝试使用更为精妙的分治法求解。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/23 9:16
  */
 public class DpDemo001 {

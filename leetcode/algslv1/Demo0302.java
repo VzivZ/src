@@ -2,7 +2,7 @@ package leetcode.algslv1;
 
 /**
  * @Description:
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2021/3/2 14:12
  */
 public class Demo0302 {

@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-10-31 16:11
  **/
 public class NodeDemo<T> {

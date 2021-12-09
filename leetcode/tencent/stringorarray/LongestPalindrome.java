@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName LongestPalindrome
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/9 11:06
  */
 public class LongestPalindrome {

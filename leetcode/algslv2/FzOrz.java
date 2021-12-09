@@ -18,7 +18,7 @@ package leetcode.algslv2;
  * 或者返回索引 5， 其峰值元素为 6。
  * 说明:
  * 你的解法应该是 O(logN) 时间复杂度的。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/28 15:46
  */
 public class FzOrz {

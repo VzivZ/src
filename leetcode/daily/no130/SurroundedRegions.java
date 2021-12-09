@@ -5,7 +5,7 @@ package leetcode.daily.no130;
  * 给定一个二维的矩阵，包含 'X' 和 'O'（字母 O）。
  * <p>
  * 找到所有被 'X' 围绕的区域，并将这些区域里所有的 'O' 用 'X' 填充。
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-08-11 14:44
  **/
 public class SurroundedRegions {

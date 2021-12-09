@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-04-02 09:42
  **/
 public class InputTest {
@@ -41,7 +41,7 @@ public class InputTest {
 //        names.add("Roy");
         System.out.println(String.join(",", names));
 
-        //Òª×ª»»µÄlist¼¯ºÏ
+        //Òª×ªï¿½ï¿½ï¿½ï¿½listï¿½ï¿½ï¿½ï¿½
         List<String> testList = new ArrayList<String>() {{
             add("AA");
             add("bb");
@@ -53,10 +53,10 @@ public class InputTest {
             }
         }
 
-        //Ê¹ÓÃtoArray(T[] a)·½·¨
+        //Ê¹ï¿½ï¿½toArray(T[] a)ï¿½ï¿½ï¿½ï¿½
         String[] array2 = testList.toArray(new String[0]);
 
-//´òÓ¡¸ÃÊý×é
+//ï¿½ï¿½Ó¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         for (String s : array2) {
             System.out.println(s);
         }

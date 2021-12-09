@@ -15,7 +15,7 @@ import java.util.Arrays;
  * 输出: 4
  * 说明:
  * 你可以假设 k 总是有效的，且 1 ≤ k ≤ 数组的长度。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/28 10:35
  */
 public class TopK002 {

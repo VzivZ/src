@@ -17,7 +17,7 @@ import java.util.Arrays;
  * 注意：
  * 输入的字符串只包含小写字母
  * 两个字符串的长度都在 [1, 10,000] 之间
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/12/14 12:54
  */
 public class Demo002 {

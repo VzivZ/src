@@ -2,7 +2,7 @@ package leetcode.algslv2.dp;
 
 /**
  * @description: 动态规划
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-10 16:34
  **/
 public class FibDemo {

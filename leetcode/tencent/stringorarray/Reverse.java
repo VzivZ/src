@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName Reverse
  * @Description 反转字符串
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/31 10:07
  */
 public class Reverse {

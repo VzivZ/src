@@ -3,7 +3,7 @@ package leetcode.bytedance.dstructure;
 /**
  * @ClassName LRUTest
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/2/18 12:58
  */
 public class LRUTest {

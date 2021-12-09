@@ -21,7 +21,7 @@ import java.util.Stack;
  * minStack.pop();
  * minStack.top();      --> 返回 0.
  * minStack.getMin();   --> 返回 -2.
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/1/29 8:59
  */
 public class MinStack {

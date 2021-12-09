@@ -5,7 +5,7 @@ import java.math.BigInteger;
 /**
  * @ClassName Mutiny
  * @Description 字符串相乘
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/30 16:13
  */
 public class Mutiny {

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @description: 506.相对名次
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-07-10 16:44
  **/
 public class TopK01 {

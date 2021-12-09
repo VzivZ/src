@@ -21,7 +21,7 @@ package leetcode.arraydemo;
  * 示例 2:
  * 输入: n = 4, k = 9
  * 输出: "2314"
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/1/25 15:12
  */
 public class Permutation {

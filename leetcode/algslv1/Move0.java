@@ -10,7 +10,7 @@ package leetcode.algslv1;
  * 说明:
  * 必须在原数组上操作，不能拷贝额外的数组。
  * 尽量减少操作次数。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/15 10:17
  */
 public class Move0 {

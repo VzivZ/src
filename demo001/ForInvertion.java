@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-05-22 17:04
  **/
 public class ForInvertion {

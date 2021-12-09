@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName ProductExceptSelf
  * @Description 除自身以外数组的乘积
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/31 16:22
  */
 public class ProductExceptSelf {

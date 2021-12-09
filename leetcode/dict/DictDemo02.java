@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @ClassName DictDemo02
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/12 13:47
  */
 public class DictDemo02 {

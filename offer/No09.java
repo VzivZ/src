@@ -2,7 +2,7 @@ package offer;
 
 /**
  * @description: 斐波那契数列
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-12-21 14:41
  **/
 public class No09 {

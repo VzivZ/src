@@ -2,7 +2,7 @@ package leetcode.daily.no037;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-15 09:59
  **/
 public class SudokuSolver {

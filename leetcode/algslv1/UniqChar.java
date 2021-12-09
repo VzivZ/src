@@ -14,7 +14,7 @@ import java.util.Set;
  * s = "loveleetcode",
  * 返回 2.
  * 注意事项：您可以假定该字符串只包含小写字母。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/15 14:32
  */
 public class UniqChar {

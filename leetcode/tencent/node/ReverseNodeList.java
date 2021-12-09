@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * @ClassName ReverseNodeList
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/1 16:03
  */
 public class ReverseNodeList {

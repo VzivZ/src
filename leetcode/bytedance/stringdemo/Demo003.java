@@ -18,7 +18,7 @@ package leetcode.bytedance.stringdemo;
  * num1 和 num2 只包含数字 0-9。
  * num1 和 num2 均不以零开头，除非是数字 0 本身。
  * 不能使用任何标准库的大数类型（比如 BigInteger）或直接将输入转换为整数来处理。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/12/14 14:56
  */
 public class Demo003 {

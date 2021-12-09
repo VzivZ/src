@@ -30,7 +30,7 @@ import java.util.stream.IntStream;
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/top-k-frequent-elements
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-07 11:27
  **/
 public class TopKFrequentElements {

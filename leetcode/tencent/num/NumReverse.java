@@ -3,7 +3,7 @@ package leetcode.tencent.num;
 /**
  * @ClassName NumReverse
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/12 13:53
  */
 public class NumReverse {

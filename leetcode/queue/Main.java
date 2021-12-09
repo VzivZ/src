@@ -3,7 +3,7 @@ package leetcode.queue;
 /**
  * @ClassName Main
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/1/29 11:00
  */
 public class Main {

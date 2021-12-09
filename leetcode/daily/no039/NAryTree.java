@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-11 19:47
  **/
 public class NAryTree {

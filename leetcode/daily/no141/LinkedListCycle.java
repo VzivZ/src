@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-10-09 10:07
  **/
 public class LinkedListCycle {

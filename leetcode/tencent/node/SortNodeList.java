@@ -5,7 +5,7 @@ import leetcode.node.ListNode;
 /**
  * @ClassName SortNodeList
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/2 15:00
  */
 public class SortNodeList {

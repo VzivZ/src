@@ -2,7 +2,7 @@ package tree;
 
 /**
  * @description: 题目：给定一个二叉搜索树(BST)，找到树中第 K 小的节点。
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-10-31 16:14
  **/
 public class BSTDemo {

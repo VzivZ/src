@@ -2,7 +2,7 @@ package bean.lifecycle;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-11-06 15:37
  **/
 public class T {

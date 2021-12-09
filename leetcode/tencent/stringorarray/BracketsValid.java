@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * @ClassName BracketsValid
  * @Description 有效括号
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/29 14:03
  */
 public class BracketsValid {

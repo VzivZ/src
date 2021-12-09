@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName DuplicatesRemove
  * @Description 删除排序数组中的重复项
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/29 16:00
  */
 public class DuplicatesRemove {

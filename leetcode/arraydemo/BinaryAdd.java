@@ -3,7 +3,7 @@ package leetcode.arraydemo;
 /**
  * @ClassName BinaryAdd
  * @Description 二进制数相加
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/14 13:54
  */
 public class BinaryAdd {

@@ -9,7 +9,7 @@ import java.util.List;
  * 示例:
  * 输入: "25525511135"
  * 输出: ["255.255.11.135", "255.255.111.35"]
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/1/25 13:14
  */
 public class RestoreIpAddr {

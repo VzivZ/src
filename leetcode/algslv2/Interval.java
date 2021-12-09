@@ -3,7 +3,7 @@ package leetcode.algslv2;
 /**
  * @ClassName Interval
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/30 13:48
  */
 public class Interval {

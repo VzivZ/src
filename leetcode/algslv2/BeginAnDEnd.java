@@ -12,7 +12,7 @@ package leetcode.algslv2;
  * 示例 2:
  * 输入: nums = [5,7,7,8,8,10], target = 6
  * 输出: [-1,-1]
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/28 16:27
  */
 public class BeginAnDEnd {

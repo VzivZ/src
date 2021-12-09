@@ -27,7 +27,7 @@ package leetcode.algslv1;
  * <p>
  * 输入: 4
  * 输出: "1211"
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/16 9:37
  */
 public class Report {

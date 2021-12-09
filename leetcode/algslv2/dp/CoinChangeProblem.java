@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-10 16:58
  **/
 public class CoinChangeProblem {

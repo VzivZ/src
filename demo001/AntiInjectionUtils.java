@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 /**
  * @description: 数据库反注入校验
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-12-17 09:33
  **/
 public class AntiInjectionUtils {

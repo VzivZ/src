@@ -15,7 +15,7 @@ package leetcode.algslv1;
  * 输出: 21
  * 注意:
  * 假设我们的环境只能存储 32 位有符号整数，其数值范围是 [−2^31,  2^31 − 1]。根据这个假设，如果反转后的整数溢出，则返回 0。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/15 13:40
  */
 public class IntegerReverse {

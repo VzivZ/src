@@ -9,7 +9,7 @@ import leetcode.node.ListNode;
  * 示例：
  * 输入：1->2->4, 1->3->4
  * 输出：1->1->2->3->4->4
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/16 13:40
  */
 public class MergeTwoNode {

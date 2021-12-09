@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @ClassName BestStrategy
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/21 10:28
  */
 public class BestStrategy {

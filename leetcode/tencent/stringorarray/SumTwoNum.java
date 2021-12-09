@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * @ClassName SumTwoNum
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/8 9:17
  */
 public class SumTwoNum {

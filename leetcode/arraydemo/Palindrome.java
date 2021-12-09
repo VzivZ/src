@@ -15,7 +15,7 @@ package leetcode.arraydemo;
  * 输出: false
  * 解释: 从右向左读, 为 01 。因此它不是一个回文数。
  * 进阶:你能不将整数转为字符串来解决这个问题吗？
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2019/2/20 13:44
  */
 public class Palindrome {

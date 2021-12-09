@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * @ClassName Demo03
  * @Description 两个数组中是否包含相同元素
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/11 15:14
  */
 public class Demo03 {

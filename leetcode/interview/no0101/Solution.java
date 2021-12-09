@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * @description: 面试题 01.01. 判定字符是否唯一
  * 实现一个算法，确定一个字符串 s 的所有字符是否全都不同。
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-08-11 09:57
  **/
 public class Solution {

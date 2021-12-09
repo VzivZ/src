@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * @description: 117. 填充每个节点的下一个右侧节点指针 II
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-28 10:40
  **/
 public class NextRightPointers {

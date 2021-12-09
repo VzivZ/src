@@ -20,7 +20,7 @@ import java.util.Arrays;
  * <p>
  * 进阶:
  * 如果输入字符串包含 unicode 字符怎么办？你能否调整你的解法来应对这种情况？
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/15 16:23
  */
 public class SameChar {

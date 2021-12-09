@@ -2,7 +2,7 @@ package demo001;
 
 /**
  * @description: 找出最大的K个数
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-07-02 15:54
  **/
 public class TopK {

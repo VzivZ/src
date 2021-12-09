@@ -2,7 +2,7 @@ package pattern.iterator;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-04-10 15:13
  **/
 public class NameRepository implements Container {

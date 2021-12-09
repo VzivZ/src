@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 /**
  * @description: 压缩连续空格到只剩下一个
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-10-09 17:02
  **/
 public class TestReplaceAll {

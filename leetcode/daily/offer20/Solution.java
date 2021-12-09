@@ -2,7 +2,7 @@ package leetcode.daily.offer20;
 
 /**
  * @description:
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2020-09-02 14:58
  **/
 public class Solution {

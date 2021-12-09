@@ -3,7 +3,7 @@ package leetcode.tencent.stringorarray;
 /**
  * @ClassName ReverseWorks
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/10/31 15:58
  */
 public class ReverseWorks {

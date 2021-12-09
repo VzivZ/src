@@ -3,7 +3,7 @@ package leetcode.arraydemo;
 /**
  * @ClassName RomanToInt
  * @Description
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/9/19 15:57
  */
 public class RomanToInt {

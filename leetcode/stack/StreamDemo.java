@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 /**
  * @description: 流
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-07-18 16:30
  **/
 public class StreamDemo {

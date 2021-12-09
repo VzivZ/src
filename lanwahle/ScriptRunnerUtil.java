@@ -13,7 +13,7 @@ import java.sql.SQLException;
 
 /**
  * @description: 运行脚本的工具类
- * @author: HeZhe
+ * @author: VzivZ
  * @date: 2019-08-06 10:53
  **/
 //@PropertySource("classpath:config/application-dev.properties")

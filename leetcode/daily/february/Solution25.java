@@ -17,7 +17,7 @@ package leetcode.daily.february;
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/transpose-matrix
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2021/2/25 15:34
  */
 class Solution25 {

@@ -14,7 +14,7 @@ package leetcode.algslv2;
  * 一个直观的解决方案是使用计数排序的两趟扫描算法。
  * 首先，迭代计算出0、1 和 2 元素的个数，然后按照0、1、2的排序，重写当前数组。
  * 你能想出一个仅使用常数空间的一趟扫描算法吗？
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/26 13:11
  */
 public class ColorSorted {

@@ -14,7 +14,7 @@ package leetcode.algslv1;
  * 输入: [4,3,2,1]
  * 输出: [4,3,2,2]
  * 解释: 输入数组表示数字 4321。
- * @Author HeZhe
+ * @Author VzivZ
  * @Date 2018/11/15 9:17
  */
 public class NumberPlusOne {
