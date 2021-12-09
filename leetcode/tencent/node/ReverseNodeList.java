@@ -1,0 +1,59 @@
+package leetcode.tencent.node;
+
+import leetcode.node.ListNode;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
+/**
+ * @ClassName ReverseNodeList
+ * @Description
+ * @Author HeZhe
+ * @Date 2018/11/1 16:03
+ */
+public class ReverseNodeList {
+	public static ListNode reverseList(ListNode head) {
+		if (head == null || head.next == null) {
+			return head;
+		}
+		ListNode newHead = reverseList(head.next);
+		head.next.next = head;
+		head.next = null;
+		return newHead;
+	}
+
+	public static ListNode reverseList2(ListNode head) {
+		if (head == null || head.next == null) {
+			return head;
+		}
+		ListNode prev = head;
+		ListNode cur = head.next;
+		while (cur != null) {
+			ListNode temp = cur.next;
+			cur.next = prev;
+			prev = cur;
+			cur = temp;
+		}
+		head.next = null;
+		return prev;
+	}
+
+	public static void main(String[] args) {
+		ListNode node1 = new ListNode(1);
+		ListNode node2 = new ListNode(2);
+		ListNode node3 = new ListNode(3);
+		ListNode node4 = new ListNode(4);
+		ListNode node5 = new ListNode(5);
+		ListNode node6 = new ListNode(6);
+		node1.next = node2;
+		node2.next = node3;
+		node3.next = node4;
+		node4.next = node5;
+		node5.next = node6;
+		ListNode a = reverseList2(node1);
+		System.out.println(a.next);
+		Map map1 = new HashMap<>();
+		Map map2 = new ConcurrentHashMap<>();
+	}
+}
